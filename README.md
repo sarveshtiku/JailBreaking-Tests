@@ -30,9 +30,6 @@ python scripts/run_qwen7b.py --dataset advbench
 ## References
 - [SORRYBench](https://huggingface.co/sorry-bench)
 - [AdvBench](https://huggingface.co/datasets/walledai/AdvBench)
-```
-
----
 
 ## Base Eval Script: `scripts/run_eval.py`
 
